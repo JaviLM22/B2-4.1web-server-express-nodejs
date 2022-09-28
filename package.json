@@ -1,0 +1,14 @@
+{
+  "name": "B24.1web-server-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "morgan": "^1.10.0",
+    "pg": "^8.8.0"
+  }
+}
